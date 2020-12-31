@@ -19,6 +19,8 @@ Adobe Portfolio https://shopalino.myportfolio.com
 
 Bloglovin - https://www.bloglovin.com/@shoponline5 
 
+Google Sites - https://sites.google.com/shopalino.com/shop-online/ 
+
 Shopping on Wordpres - https://shopalino1.wordpress.com/
 
 Shopalino on dev.to - https://dev.to/shopalino1/hello-world-from-a-little-online-shop-1o58 
