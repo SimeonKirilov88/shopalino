@@ -31,6 +31,8 @@ AllMyLinks - https://allmylinks.com/shopalino
 
 Site123 - https://5fec8a778cf5f.site123.me/ 
 
+BoxMode - https://shopalino.site.bm/about 
+
 Shopalino on dev.to - https://dev.to/shopalino1/hello-world-from-a-little-online-shop-1o58 
 
 
