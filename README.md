@@ -15,7 +15,7 @@ Twitter - https://twitter.com/shopalino1 & https://twitter.com/shopalino
 
 Behance - https://www.behance.net/shopalino
 
-Adobe Portfolio https://sales60f8.myportfolio.com/contact
+Adobe Portfolio https://shopalino.myportfolio.com 
 
 Bloglovin - https://www.bloglovin.com/@shoponline5 
 
